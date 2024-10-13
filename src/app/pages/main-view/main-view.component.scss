@@ -46,8 +46,8 @@
       background: rgba($color: white, $alpha: 0.5);
       border-radius: 4px;
       min-width: 300px;
-      margin: 50px;
-      padding: 25px;
+      margin: 40px;
+      padding: 20px;
       &:not(:first-child){
         margin-left: 0;
       }
@@ -69,5 +69,14 @@
   flex-grow:1;
 }
 .task{
-  display:flex;
+  display: flex;
+    background-color: white;
+    border-bottom: solid 1px #ddd;
+    padding: 15px 12px;
+    font-size: 13px;
+    border-radius:4px;
+    box-shadow: 0 5px 5px -3px rgba(0,0,0,0.05),
+    0 3px 14px 2px rgba(0,0,0,0.05);
+    cursor: pointer;
+    margin-bottom: 20px;
 }
