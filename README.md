@@ -1,5 +1,8 @@
 # Kanaban
 
+![image](https://github.com/user-attachments/assets/9ae99042-7c4e-452f-a058-77ba5f773b46)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
 ## Development server
