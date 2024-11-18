@@ -5,6 +5,12 @@
 ![Drag   drop responsive](https://github.com/user-attachments/assets/cd122f36-f57a-446b-a423-d29eec8a766d)
 
 
+I worked on a project using Angular, which is a Kanban board for task organization. The board allows users to move tasks between columns or reorder them within the same column using the drag-and-drop feature.
+
+I utilized the concept of Models to handle data in a structured way (such as Board, Column, and Tasks).
+I used Bulma CSS for styling.
+Additionally, I implemented CDK Drag & Drop to enable the drag-and-drop functionality.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
