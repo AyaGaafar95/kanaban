@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/9ae99042-7c4e-452f-a058-77ba5f773b46)
 
+![Drag   drop responsive](https://github.com/user-attachments/assets/cd122f36-f57a-446b-a423-d29eec8a766d)
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
