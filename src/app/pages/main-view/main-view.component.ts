@@ -14,7 +14,7 @@ export class MainViewComponent implements OnInit{
   board:Board = new Board('test Board',[
     new Column ('Ideas',[
       'some rondom idea',
-      'Aya is good in every thing that she do',
+      'Aya is good in every thing that she does',
       'this is another rondom idea',
       'build an awesome application'
     ]),
@@ -41,9 +41,7 @@ export class MainViewComponent implements OnInit{
   ngOnInit(): void {
 
   }
-  todo = ['Get to work', 'Pick up groceries', 'Go home', 'Fall asleep'];
 
-  done = ['Get up', 'Brush teeth', 'Take a shower', 'Check e-mail', 'Walk dog'];
 
   drop(event: CdkDragDrop<string[]>) {
     if (event.previousContainer === event.container) {
